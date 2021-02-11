@@ -6,8 +6,8 @@ Instead of using separate day and month dropdown inputs I wanted to figure out h
 ## Screenshots
 
 ![main page](/Assets/main-page.png)
-Format: ![screen shot main page](url)
 
+![input result](/Assets/input-result.png)
 
 ## Credits
 
