@@ -5,8 +5,8 @@ Instead of using separate day and month dropdown inputs I wanted to figure out h
 
 ## Screenshots
 
-![UI](Assets/Screen Shot 2021-02-11 at 10.25.04 AM.png)
-Format: ![Alt Text](url)
+![main page](/Assets/main-page.png)
+Format: ![screen shot main page](url)
 
 
 ## Credits
