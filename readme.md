@@ -1,3 +1,5 @@
+https://horoscopegenerator.netlify.app/
+
 # Horoscope Generator
 
 This is a simple horoscope generator using html, css, and vanilla javascript. Here I am manipulating the DOM using an event listener to input the date on click into a function that determines the output to the DOM based on the month and day specifically. The user simply enters the day and month they were born, and receives their horoscope from the generator. 
